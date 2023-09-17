@@ -1,3 +1,3 @@
 # Html-Task
 
-## exercises for making list,table and form using html without css
+## exercises for making list,table and form using html.
